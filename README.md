@@ -1,3 +1,3 @@
 ## Output
 
-![Lab 1 Output](screenshots/lab2a.png)
+![Lab 1 Output](screenshot/lab2a.png)
